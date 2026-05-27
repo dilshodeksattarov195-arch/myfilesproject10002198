@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterverify",
+        "uuid": 14601314,
+        "checksum": "pxpbpg"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
